@@ -3,7 +3,7 @@
 
 A modern, feature-rich Jamify clone built with React.js, featuring music streaming, playlists, search functionality, and enhanced user experience.
 
-![Screenshot](https://github.com/VIKASRAPARTHI/Jamify-2.0-Clone/blob/main/public/Screenshot%202025-07-02%20223207.png)
+![Screenshot](https://github.com/ewprachi-131/Jamify_Clone/blob/main/screenshot.png)
 
 ## Features
 
