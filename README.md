@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jamify 2.0 Clone
 
 A modern, feature-rich Jamify clone built with React.js, featuring music streaming, playlists, search functionality, and enhanced user experience.
@@ -120,3 +121,7 @@ git add .
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Star this repository if you found it helpful!**
+=======
+# Jamify_Clone
+go check it out guys
+>>>>>>> c63c3ee1a4034f2a74b604d3e6088377c1d37ab6
